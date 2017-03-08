@@ -12,4 +12,4 @@ Default virtual private cloud configuration for [fastai](http://course.fast.ai/)
     $ terraform apply
     ````
     
-5. **Note**: if you plan to use version control, add your `.tfvars` file to `.gitignore`
+5. If you wish to take down the VPC, simply run `terraform destroy`
